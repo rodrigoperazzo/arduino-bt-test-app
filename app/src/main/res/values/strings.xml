@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ArduinoBT</string>
+
+    <string name="title">Arduino with bluetooth</string>
+    <string name="action_connect">Connect to Arduino</string>
+    <string name="action_disconnect">Disconnect from Arduino</string>
+    <string name="button">Send test data to Arduino</string>
+
+    <string-array name="flags_array">
+        <item>Flag A</item>
+        <item>Flag B</item>
+        <item>Flag C</item>
+        <item>Flag D</item>
+    </string-array>
+
+
+</resources>
